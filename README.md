@@ -1,4 +1,3 @@
-<img width="751" height="562" alt="screen shot" src="https://github.com/user-attachments/assets/cdd5dd32-0c66-40d2-9ce9-2dc0ebd0a628" />
 # Kali-Linux-lab-setup
 Building an isolated virtual lab for penetration testing and ethical hacking process.
 ## Project overview 
